@@ -4,21 +4,21 @@ const data = [
         title:'SIGIRIYA',
         title2:'ROCK',
         description:'Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka.',
-        image:'/assets/sigiriya2.jpg'
+        image:'assets/sigiriya2.jpg'
     },
     {
         place:'Sri Lanka - Kandy',
         title:'DALADA',
         title2:'MALIGAVA',
         description:'Sri Dalada Maligawa, commonly known in English as the Temple of the Sacred Tooth Relic, is a Buddhist temple in Kandy, Sri Lanka. It is located in the Royal Palace Complex of the former Kingdom of Kandy, which houses the relic of the tooth of the Buddha.',
-        image:'/assets/kandy2.jpg'
+        image:'assets/kandy2.jpg'
     },
     {
         place:'Sri Lanka - Galle',
         title:'GALLE',
         title2:'KOTUVA',
         description:'Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards.',
-        image:'/assets/galle.jpg'
+        image:'assets/galle.jpg'
     },
     {
         place:'Sri Lanka - Anuradhapura',
