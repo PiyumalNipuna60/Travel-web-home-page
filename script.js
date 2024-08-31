@@ -1,45 +1,45 @@
 const data = [
     {
-        place:'Switzerland Alps',
-        title:'SAINT',
-        title2:'ANTONIEN',
-        description:'Tucked away in the Switzerland Alps, Saint Antönien offers an idyllic retreat for those seeking tranquility and adventure alike. It\'s a hidden gem for backcountry skiing in winter and boasts lush trails for hiking and mountain biking during the warmer months.',
-        image:'https://assets.codepen.io/3685267/timed-cards-1.jpg'
+        place:'Sri Lanka - Dabulla',
+        title:'SIGIRIYA',
+        title2:'ROCK',
+        description:'Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka.',
+        image:'/assets/sigiriya2.jpg'
     },
     {
-        place:'Japan Alps',
-        title:'NANGANO',
-        title2:'PREFECTURE',
-        description:'Nagano Prefecture, set within the majestic Japan Alps, is a cultural treasure trove with its historic shrines and temples, particularly the famous Zenkō-ji. The region is also a hotspot for skiing and snowboarding, offering some of the country\'s best powder.',
-        image:'https://assets.codepen.io/3685267/timed-cards-2.jpg'
+        place:'Sri Lanka - Kandy',
+        title:'DALADA',
+        title2:'MALIGAVA',
+        description:'Sri Dalada Maligawa, commonly known in English as the Temple of the Sacred Tooth Relic, is a Buddhist temple in Kandy, Sri Lanka. It is located in the Royal Palace Complex of the former Kingdom of Kandy, which houses the relic of the tooth of the Buddha.',
+        image:'/assets/kandy2.jpg'
     },
     {
-        place:'Sahara Desert - Morocco',
-        title:'MARRAKECH',
-        title2:'MEROUGA',
-        description:'The journey from the vibrant souks and palaces of Marrakech to the tranquil, starlit sands of Merzouga showcases the diverse splendor of Morocco. Camel treks and desert camps offer an unforgettable immersion into the nomadic way of life.',
-        image:'https://assets.codepen.io/3685267/timed-cards-3.jpg'
+        place:'Sri Lanka - Galle',
+        title:'GALLE',
+        title2:'KOTUVA',
+        description:'Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards.',
+        image:'/assets/galle.jpg'
     },
     {
-        place:'Sierra Nevada - USA',
-        title:'YOSEMITE',
-        title2:'NATIONAL PARAK',
-        description:'Yosemite National Park is a showcase of the American wilderness, revered for its towering granite monoliths, ancient giant sequoias, and thundering waterfalls. The park offers year-round recreational activities, from rock climbing to serene valley walks.',
-        image:'https://assets.codepen.io/3685267/timed-cards-4.jpg'
+        place:'Sri Lanka - Anuradhapura',
+        title:'JAYASIRI',
+        title2:'MAHA BODHIYA',
+        description:'Jaya Sri Maha Bodhi Tree is a historical sacred bo tree (Ficus religiosa) in the Mahamewuna Garden in historical city of Anuradhapura, Sri Lanka. This is believed to be a tree grown from a cutting of the southern branch from the historical sacred bo tree, Sri Maha Bodhi, which was destroyed during the time of Emperor Ashoka the Great, at Buddha Gaya in India, under which Siddhartha Gautama (Buddha) attained Enlightenment.',
+        image:'assets/jayasiri_maha_bodiya.jpg'
     },
     {
-        place:'Tarifa - Spain',
-        title:'LOS LANCES',
-        title2:'BEACH',
-        description:'Los Lances Beach in Tarifa is a coastal paradise known for its consistent winds, making it a world-renowned spot for kitesurfing and windsurfing. The beach\'s long, sandy shores provide ample space for relaxation and sunbathing, with a vibrant atmosphere of beach bars and cafes.',
-        image:'https://assets.codepen.io/3685267/timed-cards-5.jpg'
+        place:'Sri Lanka - Jaffna',
+        title:'NALLUR',
+        title2:'KOVIL',
+        description:'Nallur Kandaswamy Kovil or Nallur Murugan Kovil is one of the most significant Hindu temples in the Jaffna District of Northern Province, Sri Lanka. The temple is a socially important institution for the Sri Lankan Tamils Hindu identity and many temples have been built in Europe and North America using the same name as a cultural memory',
+        image:'assets/kovila2.jpg'
     },
     {
-        place:'Cappadocia - Turkey',
-        title:'Göreme',
-        title2:'Valley',
-        description:'Göreme Valley in Cappadocia is a historical marvel set against a unique geological backdrop, where centuries of wind and water have sculpted the landscape into whimsical formations. The valley is also famous for its open-air museums, underground cities, and the enchanting experience of hot air ballooning.',
-        image:'https://assets.codepen.io/3685267/timed-cards-6.jpg'
+        place:'Sri Lanka - Alla',
+        title:'NINE ARCH',
+        title2:'BRIDGE',
+        description:'The Nine Arch Bridge also called the Bridge in the Sky, is a viaduct bridge in Sri Lanka and one of the best examples of colonial-era railway construction in the country. The bridge was designed to accommodate a challenging nine-degree curve and steep gradient',
+        image:'assets/ella.jpg'
     },
 ]
 
