@@ -4,42 +4,42 @@ const data = [
         title:'SIGIRIYA',
         title2:'ROCK',
         description:'Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka.',
-        image:'/assets/sigiriya2.jpg'
+        image:'assets/sigiriya2.jpg'
     },
     {
         place:'Sri Lanka - Kandy',
         title:'DALADA',
         title2:'MALIGAVA',
         description:'Sri Dalada Maligawa, commonly known in English as the Temple of the Sacred Tooth Relic, is a Buddhist temple in Kandy, Sri Lanka. It is located in the Royal Palace Complex of the former Kingdom of Kandy, which houses the relic of the tooth of the Buddha.',
-        image:'/assets/kandy2.jpg'
+        image:'assets/kandy2.jpg'
     },
     {
         place:'Sri Lanka - Galle',
         title:'GALLE',
         title2:'KOTUVA',
         description:'Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards.',
-        image:'/assets/galle.jpg'
+        image:'assets/galle.jpg'
     },
     {
         place:'Sri Lanka - Anuradhapura',
         title:'JAYASIRI',
         title2:'MAHA BODHIYA',
         description:'Jaya Sri Maha Bodhi Tree is a historical sacred bo tree (Ficus religiosa) in the Mahamewuna Garden in historical city of Anuradhapura, Sri Lanka. This is believed to be a tree grown from a cutting of the southern branch from the historical sacred bo tree, Sri Maha Bodhi, which was destroyed during the time of Emperor Ashoka the Great, at Buddha Gaya in India, under which Siddhartha Gautama (Buddha) attained Enlightenment.',
-        image:'/assets/jayasiri_maha_bodiya.jpg'
+        image:'assets/jayasiri_maha_bodiya.jpg'
     },
     {
         place:'Sri Lanka - Jaffna',
         title:'NALLUR',
         title2:'KOVIL',
         description:'Nallur Kandaswamy Kovil or Nallur Murugan Kovil is one of the most significant Hindu temples in the Jaffna District of Northern Province, Sri Lanka. The temple is a socially important institution for the Sri Lankan Tamils Hindu identity and many temples have been built in Europe and North America using the same name as a cultural memory',
-        image:'/assets/kovila2.jpg'
+        image:'assets/kovila2.jpg'
     },
     {
         place:'Sri Lanka - Alla',
         title:'NINE ARCH',
         title2:'BRIDGE',
         description:'The Nine Arch Bridge also called the Bridge in the Sky, is a viaduct bridge in Sri Lanka and one of the best examples of colonial-era railway construction in the country. The bridge was designed to accommodate a challenging nine-degree curve and steep gradient',
-        image:'/assets/ella.jpg'
+        image:'assets/ella.jpg'
     },
 ]
 
